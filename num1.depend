@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606668235 source:d:\task9\num1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
